@@ -8,11 +8,7 @@ Teknologi yang Digunakan:
 Python, Pandas, Scikit-learn, Seaborn, Matplotlib
 
 Tugas Utama:
-Analisis Data Eksploratif (EDA)
-Feature Engineering
-Pelatihan & Evaluasi Model
-
-Interpretasi Model
+Analisis Data Eksploratif (EDA), Feature Engineering, Pelatihan & Evaluasi Model, Interpretasi Model.
 
 📊 Dataset
 Source: Kaggle Telecom Churn Dataset 
@@ -29,8 +25,7 @@ Precision, Recall
 Confusion Matrix
 
 📌 Temuan Penting
-Fitur seperti MonthlyCharges, ContractType, dan Tenure sangat berkorelasi dengan churn.
-Logistic Regression memberikan performa terbaik dengan Recall sebesar 0.80.
+Fitur seperti MonthlyCharges, ContractType, dan Tenure sangat berkorelasi dengan churn. Logistic Regression memberikan performa terbaik dengan Recall sebesar 0.80.
 
 📦 Future Work
 Hyperparameter tuning
