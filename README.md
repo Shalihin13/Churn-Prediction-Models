@@ -15,21 +15,18 @@ Source: Kaggle Telecom Churn Dataset
 Features: Demographics, account info, service usage
 Target: Churn (Yes/No)
 
-📈 Model yang Digunakan
-Logistic Regression
-Random Forest
+📈 Model yang Digunakan :
+Logistic Regression & Random Forest
 
-🧠 Evaluation Metrics
-Accuracy
-Precision, Recall
+🧠 Evaluation Metrics : 
+Precision, Recall dan 
 Confusion Matrix
 
-📌 Temuan Penting
+📌 Temuan Penting : 
 Fitur seperti MonthlyCharges, ContractType, dan Tenure sangat berkorelasi dengan churn. Logistic Regression memberikan performa terbaik dengan Recall sebesar 0.80.
 
-📦 Future Work
-Hyperparameter tuning
-
+📦 Future Work :
+Hyperparameter tuning, 
 Real-time churn dashboard
 
 Model deployment with Streamlit link: https://churn-prediction-models.streamlit.app/
