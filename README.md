@@ -34,7 +34,9 @@ Logistic Regression memberikan performa terbaik dengan Recall sebesar 0.80.
 
 📦 Future Work
 Hyperparameter tuning
+
 Real-time churn dashboard
+
 Model deployment with Streamlit link: https://churn-prediction-models.streamlit.app/
 
 
