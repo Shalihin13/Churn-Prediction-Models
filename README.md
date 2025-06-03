@@ -33,6 +33,9 @@ Real-time churn dashboard
 
 Model deployment with Streamlit link: https://churn-prediction-models.streamlit.app/
 
+ 📣 Terbuka untuk diskusi, feedback, dan kolaborasi!
+
+
 
 
 
