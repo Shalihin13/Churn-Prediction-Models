@@ -14,7 +14,7 @@ Analisis Data Eksploratif (EDA), Feature Engineering, Pelatihan & Evaluasi Model
 📊 Dataset
 Source: Kaggle Telecom Churn Dataset 
 
-Features: Demographics, account info, service usage
+Features: Demographics, account info, service usage, 
 Target: Churn (Yes/No)
 
 📈 Model yang Digunakan :
