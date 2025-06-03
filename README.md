@@ -1,4 +1,4 @@
-# 📉 Prediksi Customer Churn
+ 📉 Prediksi Customer Churn
 Proyek ini berfokus pada prediksi churn pelanggan menggunakan teknik machine learning. Prediksi churn membantu bisnis secara proaktif mempertahankan pelanggan dengan mengidentifikasi siapa yang berisiko berhenti berlangganan.
 
 🚀 Ringkasan Proyek
