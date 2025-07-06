@@ -1,39 +1,61 @@
-# 📉 Prediksi Customer Churn
- 
-✍️ Proyek ini berfokus pada prediksi churn pelanggan menggunakan teknik machine learning. Prediksi churn membantu bisnis secara proaktif mempertahankan pelanggan dengan mengidentifikasi siapa yang berisiko berhenti berlangganan.
+# 📉 Customer Churn Prediction
 
-🚀 Ringkasan Proyek
-Tujuan: Membangun model untuk memprediksi apakah seorang pelanggan akan churn (berhenti berlangganan).
+✍️ This project focuses on predicting customer churn using machine learning techniques. Churn prediction enables businesses to proactively retain customers by identifying those at risk of leaving.
 
-🚀 Tugas Utama:
-Analisis Data Eksploratif (EDA), Feature Engineering, Pelatihan & Evaluasi Model, Interpretasi Model.
+---
 
-📊 Dataset
-Source: Kaggle Telecom Churn Dataset 
+## 🚀 Project Overview
 
-📊 Features: Demographics, account info, service usage, 
-Target: Churn (Yes/No)
+- **Goal:** Build a model to predict whether a customer will churn (unsubscribe) or not.
+- **Tasks Covered:**
+  - Exploratory Data Analysis (EDA)
+  - Feature Engineering
+  - Model Training & Evaluation
+  - Model Interpretation
 
-📈 Model yang Digunakan :
-Logistic Regression & Random Forest
+---
 
-🧠 Evaluation Metrics : 
-Precision, Recall dan 
-Confusion Matrix
+## 📊 Dataset
 
-📌 Temuan Penting : 
-Fitur seperti MonthlyCharges, ContractType, dan Tenure sangat berkorelasi dengan churn. Logistic Regression memberikan performa terbaik dengan Recall sebesar 0.80.
+- **Source:** [Kaggle - Telecom Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+- **Features:** Demographics, account info, service usage
+- **Target:** `Churn` (Yes / No)
 
-📦 Future Work :
-Hyperparameter tuning, 
-Real-time churn dashboard
+---
 
- ```
-Model deployment with Streamlit link: https://churn-prediction-models.streamlit.app/
+## 🤖 Models Used
 
- 📣 Terbuka untuk diskusi, feedback, dan kolaborasi!
+- Logistic Regression  
+- Random Forest
 
+---
 
+## 🧠 Evaluation Metrics
 
+- Precision  
+- Recall  
+- Confusion Matrix
 
+📌 **Key Finding:**  
+- Features like `MonthlyCharges`, `ContractType`, and `Tenure` are highly correlated with churn.
+- **Logistic Regression** performed best with a **Recall of 0.80**.
+
+---
+
+## 📦 Future Work
+
+- Hyperparameter tuning  
+- Real-time dashboard for churn monitoring  
+- Model deployment at scale
+
+---
+
+## 🚀 Live Demo
+
+✅ **Streamlit App:**  
+[👉 View the Model in Action](https://churn-prediction-models.streamlit.app/)
+
+---
+
+## 🧩 Folder Structure (Optional)
 
