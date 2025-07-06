@@ -57,5 +57,12 @@
 
 ---
 
-## 🧩 Folder Structure (Optional)
+## 📣 Let's Connect
+
+Open for feedback, discussion, and collaboration! 🤝  
+📧 Email: zayntaufik.28@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/shalihin2205)
+
+---
+
 
