@@ -5,7 +5,7 @@ Proyek ini berfokus pada prediksi churn pelanggan menggunakan teknik machine lea
 🚀 Ringkasan Proyek
 Tujuan: Membangun model untuk memprediksi apakah seorang pelanggan akan churn (berhenti berlangganan).
 
-Teknologi yang Digunakan:
+🚀 Teknologi yang Digunakan:
 Python, Pandas, Scikit-learn, Seaborn, Matplotlib
 
 Tugas Utama:
@@ -14,7 +14,7 @@ Analisis Data Eksploratif (EDA), Feature Engineering, Pelatihan & Evaluasi Model
 📊 Dataset
 Source: Kaggle Telecom Churn Dataset 
 
-Features: Demographics, account info, service usage, 
+📊 Features: Demographics, account info, service usage, 
 Target: Churn (Yes/No)
 
 📈 Model yang Digunakan :
@@ -31,7 +31,7 @@ Fitur seperti MonthlyCharges, ContractType, dan Tenure sangat berkorelasi dengan
 Hyperparameter tuning, 
 Real-time churn dashboard
 
-Model deployment with Streamlit link: https://churn-prediction-models.streamlit.app/
+🚀 Model deployment with Streamlit link: https://churn-prediction-models.streamlit.app/
 
  📣 Terbuka untuk diskusi, feedback, dan kolaborasi!
 
