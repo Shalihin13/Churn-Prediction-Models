@@ -28,7 +28,8 @@ Fitur seperti MonthlyCharges, ContractType, dan Tenure sangat berkorelasi dengan
 Hyperparameter tuning, 
 Real-time churn dashboard
 
- ``` Model deployment with Streamlit link: https://churn-prediction-models.streamlit.app/
+ ```
+Model deployment with Streamlit link: https://churn-prediction-models.streamlit.app/
 
  📣 Terbuka untuk diskusi, feedback, dan kolaborasi!
 
