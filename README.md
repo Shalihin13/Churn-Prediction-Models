@@ -1,14 +1,11 @@
 # 📉 Prediksi Customer Churn
  
-Proyek ini berfokus pada prediksi churn pelanggan menggunakan teknik machine learning. Prediksi churn membantu bisnis secara proaktif mempertahankan pelanggan dengan mengidentifikasi siapa yang berisiko berhenti berlangganan.
+✍️ Proyek ini berfokus pada prediksi churn pelanggan menggunakan teknik machine learning. Prediksi churn membantu bisnis secara proaktif mempertahankan pelanggan dengan mengidentifikasi siapa yang berisiko berhenti berlangganan.
 
 🚀 Ringkasan Proyek
 Tujuan: Membangun model untuk memprediksi apakah seorang pelanggan akan churn (berhenti berlangganan).
 
-🚀 Teknologi yang Digunakan:
-Python, Pandas, Scikit-learn, Seaborn, Matplotlib
-
-Tugas Utama:
+🚀 Tugas Utama:
 Analisis Data Eksploratif (EDA), Feature Engineering, Pelatihan & Evaluasi Model, Interpretasi Model.
 
 📊 Dataset
@@ -31,7 +28,7 @@ Fitur seperti MonthlyCharges, ContractType, dan Tenure sangat berkorelasi dengan
 Hyperparameter tuning, 
 Real-time churn dashboard
 
-🚀 Model deployment with Streamlit link: https://churn-prediction-models.streamlit.app/
+ ``` Model deployment with Streamlit link: https://churn-prediction-models.streamlit.app/
 
  📣 Terbuka untuk diskusi, feedback, dan kolaborasi!
 
