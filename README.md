@@ -49,11 +49,17 @@
 - Model deployment at scale
 
 ---
-
 ## 🚀 Live Demo
 
 ✅ **Streamlit App:**  
 [👉 View the Model in Action](https://churn-prediction-models.streamlit.app/)
+
+---
+
+## 📄 Report
+
+👁️**View full report (PDF):**  
+[Churn Analysis - Google Drive][(https://drive.google.com/file/d/1kLnFfmAyB6uFq_2QZBlwBB5l7-hVDOOg/view?usp=sharing)](https://drive.google.com/file/d/1Dwmp1YVAa9rSwUTLhLbxEb32GVna_bE3/view?usp=sharing).
 
 ---
 
